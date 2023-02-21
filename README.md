@@ -7,6 +7,6 @@ simsimi-cli using API from https://simsimi.vn/
 
 ## Install
 ```bash
-npm install
-node index.js
+$ npm install
+$ node index.js
 ```
